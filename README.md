@@ -1,6 +1,6 @@
 # Warbird
 
-Warbird is an ongoing project involving the design, fabrication, and testing of a flight-capable remote controlled aircraft. Modelled after the Supermarine Spitfire Mk. IX, the plane will consist of numerous 3D printed sections based on custom-made CAD models developed in Solidworks.
+Warbird is an ongoing project involving the design, fabrication, and testing of a flight-capable remote controlled aircraft. Modelled after the Supermarine Spitfire Mk. IX, the plane will consist of numerous 3D printed sections based on custom-made CAD models developed in Solidworks. This repository contains different CAD models that make up the plane's airframe and control surfaces.
 
 ![animation](Media/360.gif)
 
