@@ -16,7 +16,7 @@ Considering the extra challenge of having an airframe made of ABS, the plane wil
 
 ## Testing
 
-Upon completion of all 3D models, the finished assembly shall be tested in a Computational Fluid Dynamics simulation to explore the behaviour of air as it flows around the airframe. Tweaks to the model may be required to improve laminar flow over the airfoil if necessary to generate stable lift. The electronics systems will be bench tested before being installed into the airframe. This will be done to ensure that all systems work nominally before moving to flight. Once integrated into the assembled airframe, the motor and control surfaces will be tested again to ensure proper functionality. After these tests have been conducted, the plane will be ready for its first test flight.
+Upon completion of all 3D models, the finished assembly shall be tested in a Computational Fluid Dynamics simulation to explore the behaviour of air as it flows around the airframe. Tweaks to the model may be required to improve laminar flow over the airfoil if necessary to generate stable lift. The electronics systems has, and will continue to be, bench tested before being installed into the airframe. This will be done to ensure that all systems work nominally before moving to flight. Once integrated into the assembled airframe, the motor and control surfaces will be tested again to ensure proper functionality. After these tests have been conducted, the plane will be ready for its first test flight.
 
 
 # Model
